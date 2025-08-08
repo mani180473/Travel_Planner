@@ -1,0 +1,5 @@
+gradio
+langchain-groq
+tavily-python
+langchain-core
+langgraph
